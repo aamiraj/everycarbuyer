@@ -8,9 +8,11 @@ module.exports = withMT({
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    fontFamily: {
-      poppins: ["Poppins", "sans-serif"],
-      bromega: ["BROmega", "sans-serif"],
+    extends: {
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+        bromega: ["BROmega", "sans-serif"],
+      },
     },
   },
   plugins: [],

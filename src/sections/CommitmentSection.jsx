@@ -15,16 +15,16 @@ const CommitmentSection = () => {
           </Typography>
           <Typography style={{ padding: "28px" }} className="text-center">
             <span className="font-bromega text-base font-semibold text-black">
-              Unlocking Your Car's Value: What Sets Us Apart?
+              {"Unlocking Your Car's Value: What Sets Us Apart?"}
             </span>
             <br />
             We work alongside you to uncover the{" "}
             <b className="font-bromega font-bold">best price for your car</b>,
             giving you the power to negotiate. We understand the struggle of
-            finding a company that offers the best value, which is why we're
-            here to make a difference. With a firm belief in the customer's
-            satisfaction, we strive to deliver the highest level of service.
-            What's more, our services come with{" "}
+            finding a company that offers the best value, which is why
+            we&apos;re here to make a difference. With a firm belief in the
+            customer&apos;s satisfaction, we strive to deliver the highest level
+            of service. What&apos;s more, our services come with{" "}
             <b className="font-bromega font-bold">no admin fees</b> - they are
             completely free. Discover a new way to sell your car with{" "}
             <b className="font-bromega font-bold">Everycarbuyer</b>
@@ -34,7 +34,7 @@ const CommitmentSection = () => {
             that is why we aim to have everything sorted and done{" "}
             <b className="font-bromega font-bold">within 24 hours</b>. Whether
             you need to sell your car urgently or prefer a seamless and
-            efficient process, we've got you covered.
+            efficient process, we&apos;ve got you covered.
           </Typography>
         </div>
       </div>

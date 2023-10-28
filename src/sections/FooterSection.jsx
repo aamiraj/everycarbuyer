@@ -31,7 +31,7 @@ const FooterSection = () => {
             style={{ width: "300px", color: "#727272" }}
             className="font-poppins text-base"
           >
-            This Bucheen is so cool, I found the partner I wanted. and it's very
+            This Bucheen is so cool, I found the partner I wanted. and it&apos;s very
             easy to use
           </p>
           <div
@@ -110,7 +110,7 @@ const FooterSection = () => {
         </div>
         <div>
           <Link href={"#"} className="block font-bold text-lg my-4">Subscribe</Link>
-          <p>Don't miss our future updates! Get Subscribed now!</p>
+          <p>Don&apos;t miss our future updates! Get Subscribed now!</p>
         </div>
         <div>
           <h1 className="font-bold text-lg my-4">Company</h1>
